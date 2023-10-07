@@ -1,0 +1,2 @@
+# Page View Time Series Visualizer
+For this project I have visualized time series data using a line chart, bar chart, and box plots. I used Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations helps you understand the patterns in visits and identify yearly and monthly growth.
